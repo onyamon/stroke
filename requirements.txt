@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+joblib
+
+#คำสั่งรันเครื่อง python -m streamlit run app.py
+#คำสั่ง streamlit run app.py กรณีเครื่องรู้จักแล้ว
+
